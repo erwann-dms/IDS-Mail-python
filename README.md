@@ -1,4 +1,4 @@
-# IDS-Mail-Professional
+# IDS-Mail-Python
 
 Outil professionnel de génération, gestion et stockage d'e-mails aléatoires.
 
