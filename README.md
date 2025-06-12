@@ -36,12 +36,12 @@ pip install -r requirements.txt
 ```bash
 python src/gui.py
 ```
-
-## LICENSE
-
-MIT
 4. Exécuter les tests (optionnel) :
 
 ```bash
 pytest tests/
 ```
+
+## LICENSE
+
+MIT
