@@ -23,3 +23,7 @@ Pour lancer les tests :
 ```bash
 pytest tests/
 ```
+
+## Code style
+
+Merci de respecter le PEP8
