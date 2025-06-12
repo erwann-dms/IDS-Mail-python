@@ -1,4 +1,4 @@
-# Contribuer au projet IDS-Mail-Professional
+# Contribuer au projet IDS-Mail-Python
 
 Merci de votre intérêt pour contribuer !
 
